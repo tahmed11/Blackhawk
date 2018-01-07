@@ -1,5 +1,5 @@
 # Blackhawk 
-Reconnaissance script to visualise your target infrastrucuture.
+Reconnaissance script to visualize your target infrastructure.
 Blackhawk will leverage theharvester and sublist3r to find the sub-domains and corresponding ip addresses.
 Then it will use shodan to look for corresponding ports and services running on those addresses.  
 Useful for red teamers, pentesters or bug hunters to map their target.  
